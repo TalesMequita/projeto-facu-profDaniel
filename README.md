@@ -6,7 +6,8 @@ Este é um projeto desenvolvido para o site de uma nutricionista, com funcionali
 
 O site está hospedado na Cloud e pode ser acessado no seguinte link:
 
-[https://endereco-do-sistema-na-cloud.com](https://endereco-do-sistema-na-cloud.com)
+[URL SITE:](https://agdanathalianutri-c6htd7csgbffdefb.brazilsouth-01.azurewebsites.net/)
+[URL VIDEO APRESENTACAO](https://www.youtube.com/watch?v=oJSsy4k17aQ)
 
 ## Tecnologias Utilizadas
 
